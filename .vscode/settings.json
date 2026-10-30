@@ -1,0 +1,18 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "C_Cpp.default.systemIncludePath": [
+    "/Users/richcannon/.platformio/packages/toolchain-xtensa-esp-elf/picolibc/include",
+    "/Users/richcannon/.platformio/packages/toolchain-xtensa-esp-elf/xtensa-esp-elf/include/c++/15.2.0",
+    "/Users/richcannon/.platformio/packages/toolchain-xtensa-esp-elf/xtensa-esp-elf/include/c++/15.2.0/xtensa-esp-elf/esp32s3",
+    "/Users/richcannon/.platformio/packages/toolchain-xtensa-esp-elf/xtensa-esp-elf/include/c++/15.2.0/backward",
+    "/Users/richcannon/.platformio/packages/toolchain-xtensa-esp-elf/lib/gcc/xtensa-esp-elf/15.2.0/include",
+    "/Users/richcannon/.platformio/packages/toolchain-xtensa-esp-elf/lib/gcc/xtensa-esp-elf/15.2.0/include-fixed",
+    "/Users/richcannon/.platformio/packages/toolchain-xtensa-esp-elf/xtensa-esp-elf/include"
+  ],
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  }
+}
